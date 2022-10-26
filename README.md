@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamagrwl" alt="sakshamagrwl" /> </p>
 
+- 🎗️ My Holopin profile [![@craz_yolo's Holopin board](https://holopin.me/craz_yolo)](https://holopin.io/@craz_yolo)
+
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions.git)
 
 - 🌱 I’m currently learning **React, JavaScript and DSA**
